@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Kaito Francisco Lorenzo Okochi     :octocat:     
+ * :bust_in_silhouette:  Antonio Fernández Santiago     :octocat:
 
 ----- 
 
@@ -44,15 +44,16 @@ Miembros
 
 (P1/Persona%20#1%20(1).png)
 
+
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+Hemos seleccionado a Francisco y a Nadia ya que ambos nos parecía candidatos idóneos para este caso, por una parte Francisco es aficionado a la Historia y gran parte de nuetras obras son antiguas y piuede estar relacionadas con temas de su interés y Nadia es seleccionada sobre todo como usuaria que debido a su situación puede venirle muy bien descubrir una nueva afición.
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+>>>Creo que estas situcaiones pueden ser habituales ya que hoy ne dñia no hay mucha afición por el teatro así que es habitual el tipo de situación de pensar si es buena idea ir por primera vez y luego pensar en como ha sido es anueva experiencia.
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
