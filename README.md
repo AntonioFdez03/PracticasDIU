@@ -53,7 +53,7 @@ Hemos seleccionado a Francisco y a Nadia ya que ambos nos parecía candidatos id
 ----
 
 
->>>Creo que estas situcaiones pueden ser habituales ya que hoy ne dñia no hay mucha afición por el teatro así que es habitual el tipo de situación de pensar si es buena idea ir por primera vez y luego pensar en como ha sido es anueva experiencia.
+Creemos que estas situcaiones pueden ser habituales ya que hoy ne día no hay mucha afición por el teatro así que es habitual el tipo de situación de pensar si es buena idea ir por primera vez y luego pensar en como ha sido esa nueva experiencia.
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
