@@ -40,7 +40,8 @@ Miembros
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
 
-![Método UX](img/Persona.png) 1.c Persona
+![Método UX](P1/Persona #1 (1).png) 1.c Persona
+
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
