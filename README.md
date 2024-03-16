@@ -33,7 +33,22 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+>>> Describe el plan de User Research (cómo se planteas)
+El plan de investigación del usuario se basa en una combinación de métodos de investigación primaria para obtener una comprensión profunda de cómo los usuarios organizan la iniciativa de asistir a una escuela de teatro. Aquí está el resumen del plan:
+
+Objetivos del Proyecto: El objetivo principal es comprender cómo los usuarios organizan esta iniciativa para mejorar y atraer más su atención hacia la escuela de teatro.
+
+Objetivos Empresariales y KPIs: Se establecen tres objetivos empresariales clave junto con sus indicadores de rendimiento (KPIs) asociados: aumentar el número de usuarios, mejorar la calidad de la enseñanza y aumentar el reconocimiento de la escuela de teatro.
+
+Criterios de Éxito de la Investigación: Se especifican los criterios cualitativos y cuantitativos para recopilar información sobre los usuarios, incluyendo motivaciones, preferencias, experiencias anteriores y feedback para mejorar.
+
+Métodos de Investigación Primaria: Se incluyen varios métodos de investigación primaria, como observación etnográfica, entrevistas de usuario, indagación contextual, pruebas de usabilidad y encuestas post-sesión, cada uno con una breve explicación de su propósito y metodología.
+
+Alcance y Áreas de Enfoque de la Investigación: Se identifican y se describen los temas de preguntas principales, que se centran en motivaciones e intereses, proceso de selección y evaluación, planificación y preparación, expectativas y experiencias anteriores, y feedback para mejoras.
+
+Componentes de Enfoque del Diseño: Se eligen tres componentes de enfoque de diseño: utilidad, facilidad de aprendizaje y satisfacción, que guiarán el diseño y la mejora de la experiencia del usuario en la escuela de teatro.
+
+En resumen, el plan de investigación del usuario tiene como objetivo proporcionar una comprensión completa de las necesidades, deseos y experiencias de los usuarios, así como generar información valiosa para mejorar la oferta y la experiencia en la escuela de teatro. 
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
