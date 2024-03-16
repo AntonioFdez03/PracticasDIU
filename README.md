@@ -55,8 +55,8 @@ En resumen, el plan de investigación del usuario tiene como objetivo proporcion
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas
+Para el análisis de competidores hemos usado la plantilla de Figma, eligiendo de las dos opciones propuestas la escuela de teatro y doblaje Remiendo(https://escueladeteatroengranada.es/) y como competencias La Petite de Granada(https://www.escuelapetite.com/) y Escuela de Doblaje de Madrid ( https://escueladedoblajedemadrid.es/)
 
-De las dos opciones propuestas hemos elegido la escuela de teatro y doblaje Remiendo(https://escueladeteatroengranada.es/) y como competencias La Petite de Granada(https://www.escuelapetite.com/) y Escuela de Doblaje de madrid ( https://escueladedoblajedemadrid.es/)
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
