@@ -56,7 +56,7 @@ En resumen, el plan de investigación del usuario tiene como objetivo proporcion
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas
 
-De las dos opciones propuestas hemos elegido la escuela de teatro y doblaje Remiendo(https://escueladeteatroengranada.es/) y como competencias La Petite de Granada(https://www.escuelapetite.com/) y La escuela de Artes Escénicas de Madrid(https://taiarts.com/).
+De las dos opciones propuestas hemos elegido la escuela de teatro y doblaje Remiendo(https://escueladeteatroengranada.es/) y como competencias La Petite de Granada(https://www.escuelapetite.com/) y La escuela de doblaje de madrid ( https://escueladedoblajedemadrid.es/)
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
