@@ -34,6 +34,7 @@ Miembros
 -----
 
 >>> Describe el plan de User Research (cómo se planteas)
+
 El plan de investigación del usuario se basa en una combinación de métodos de investigación primaria para obtener una comprensión profunda de cómo los usuarios organizan la iniciativa de asistir a una escuela de teatro. Aquí está el resumen del plan:
 
 Objetivos del Proyecto: El objetivo principal es comprender cómo los usuarios organizan esta iniciativa para mejorar y atraer más su atención hacia la escuela de teatro.
