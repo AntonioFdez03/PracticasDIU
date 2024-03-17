@@ -79,12 +79,11 @@ Creemos que estas situcaiones pueden ser habituales ya que hoy ne día no hay mu
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
+>>> - Enlace al documento:  (sube a github el xls/pdf)
+>>> - https://github.com/AntonioFdez03/PracticasDIU/blob/master/P1/Usability-review.pdf
+>>> - Valoración final (numérica): 71
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
-
+>>> - Tras rellenar la plantilla del usability-review la página obtiene un 71 de puntuación lo que es una nota bastante elevada. La página cumple con su función pero tine varios detalles a mejorar.
 
 ## Paso 2. UX Design  
 
