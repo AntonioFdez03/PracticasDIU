@@ -66,7 +66,7 @@ Para el análisis de competidores hemos usado la plantilla de Figma, eligiendo d
 
 -----
 
-Hemos seleccionado a Francisco y a Nadia ya que ambos nos parecía candidatos idóneos para este caso, por una parte Francisco es aficionado a la Historia y gran parte de nuetras obras son antiguas y piuede estar relacionadas con temas de su interés y Nadia es seleccionada sobre todo como usuaria que debido a su situación puede venirle muy bien descubrir una nueva afición.
+Hemos seleccionado a Francisco y a Nadia ya que ambos nos parecían candidatos idóneos para este caso, por una parte Francisco es aficionado a la Historia y en busca de monumentos históricos se topó conla esula de teatro que anunciaba una obra de exibición que abordaba un tema de su interés. Nadia es seleccionada sobre todo como usuaria ya que debido a su situación puede venirle muy bien descubrir una nueva afición que ke ayude a desconectar de su rutina.
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
