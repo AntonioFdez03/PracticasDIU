@@ -59,7 +59,7 @@ En resumen, el plan de investigación del usuario tiene como objetivo proporcion
 
 Hemos elegido de las dos opciones propuestas la escuela de teatro y doblaje Remiendo(https://escueladeteatroengranada.es/) y como competencias La Petite, para compararla con otra de Granada(https://www.escuelapetite.com/) y Escuela de Doblaje de Madrid ( https://escueladedoblajedemadrid.es/), para compararla con una a nivel nacional.
 
-Para realizar la tabla hemos usado la plantilla de Figma: (https://github.com/AntonioFdez03/PracticasDIU/blob/master/P1/An%C3%A1lisis%20de%20Competidores.pdf)
+Para realizar la tabla hemos usado la plantilla de Figma: [Pulse aquí para ver](P1/Análisis de Competidores.pdf)
 
 
 ![Método UX](img/Persona.png) 1.c Persona
