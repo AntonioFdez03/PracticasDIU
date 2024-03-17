@@ -50,7 +50,7 @@ Componentes de Enfoque del Diseño: Se eligen tres componentes de enfoque de dis
 
 En resumen, el plan de investigación del usuario tiene como objetivo proporcionar una comprensión completa de las necesidades, deseos y experiencias de los usuarios, así como generar información valiosa para mejorar la oferta y la experiencia en la escuela de teatro. 
 
-
+[Pulse aquí para ver](P1/P1-2b%20User%20Research.pdf)
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
