@@ -64,7 +64,7 @@ Para realizar la tabla hemos usado la plantilla de Figma:
 
 Después de hacer el análisis podríamos decir las siguientes características de cada una:
 
-- Remiendo: Tiene buenos cursos, variados según nivel o edad, con profesores de calidad y con buenos precios, pero su web presenta una barra de navegación algo desordenada y una carga lenta ya que cada vez que cambias de página aparece el logo en grande unos segundos.
+- Remiendo: Tiene buenos cursos, variados según nivel o edad, con profesores de calidad y con buenos precios, pero su web presenta una barra de navegación algo desordenada y una carga lenta ya que cada vez que se quiere cambiar de página aparece el logo en grande unos segundos.
 - La Petite: Tiene variedad de cursos, también según edad o nivel y de calidad, su web tiene buen diseño pero para cierta información hay que enviar una solicitud, como por ejemplo para saber los precios.
 - Escuela de Doblaje: Tiene mucha variedad de actividades con profesores de calidad, pero no da detalles como precios o variedad según nivel o edad ya que para casi todo es necesario enviar una solicitud, por lo demás su página tiene un buen diseño y carga normal.
 
