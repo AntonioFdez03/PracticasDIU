@@ -62,7 +62,8 @@ Para el análisis de competidores hemos usado la plantilla de Figma, eligiendo d
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
-![miau](P1/Persona1.png)
+![Fran](P1/Persona1.png)
+![Nad](P1/Persona2.png)
 
 
 -----
@@ -71,7 +72,8 @@ Hemos seleccionado a Francisco y a Nadia ya que ambos nos parecían candidatos i
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
-
+![Jfran](P1/journeymapfran.png)
+![JNad](P1/journeymapnad.png)
 
 Creemos que estas situcaiones pueden ser habituales ya que hoy ne día no hay mucha afición por el teatro así que es habitual el tipo de situación de pensar si es buena idea ir por primera vez y luego pensar en como ha sido esa nueva experiencia.
 
