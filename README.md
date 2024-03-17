@@ -62,7 +62,7 @@ Para el análisis de competidores hemos usado la plantilla de Figma, eligiendo d
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
-![miau](P1/Persona%20#1.png)
+![miau](P1/Persona1.png)
 
 
 -----
