@@ -57,10 +57,18 @@ Plantilla: [Pulse aquí para ver](P1/P1-2b%20User%20Research.pdf)
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas
 
-Hemos elegido de las dos opciones propuestas la escuela de teatro y doblaje Remiendo(https://escueladeteatroengranada.es/) y como competencias La Petite, para compararla con otra de Granada(https://www.escuelapetite.com/) y Escuela de Doblaje de Madrid ( https://escueladedoblajedemadrid.es/), para compararla con una a nivel nacional.
+Hemos elegido de las dos opciones propuestas la escuela de teatro y doblaje Remiendo(https://escueladeteatroengranada.es/) y como competencias La Petite, de Granada(https://www.escuelapetite.com/) y Escuela de Doblaje de Madrid ( https://escueladedoblajedemadrid.es/).
 
 Para realizar la tabla hemos usado la plantilla de Figma: 
 [Pulse aquí para ver](P1/Análisis%20de%20Competidores.pdf)
+
+Después de hacer el análisis podríamos decir las siguientes características de cada una:
+
+- Remiendo: Tiene buenos cursos, variados según nivel o edad, con profesores de calidad y con buenos precios, pero su web presenta una barra de navegación algo desordenada y una carga lenta ya que cada vez que cambias de página aparece el logo en grande unos segundos.
+- La Petite: Tiene variedad de cursos, también según edad o nivel y de calidad, su web tiene buen diseño pero para cierta información hay que enviar una solicitud, como por ejemplo para saber los precios.
+- Escuela de Doblaje: Tiene mucha variedad de actividades con profesores de calidad, pero no da detalles como precios o variedad según nivel o edad ya que para casi todo es necesario enviar una solicitud, por lo demás su página tiene un buen diseño y carga normal.
+
+Hemos elegido estas opciones ya que una es de Granada, para así compararla con una de la misma ciudad, y la otra a nivel nacional, además como Remiendo tiene tanto teatro como doblaje, hemos elegido un competidor de teatro y otro de doblaje.
 
 
 ![Método UX](img/Persona.png) 1.c Persona
