@@ -60,7 +60,7 @@ Plantilla: [Pulse aquí para ver](P1/P1-2b%20User%20Research.pdf)
 Hemos elegido de las dos opciones propuestas la escuela de teatro y doblaje Remiendo(https://escueladeteatroengranada.es/) y como competencias La Petite, de Granada(https://www.escuelapetite.com/) y Escuela de Doblaje de Madrid ( https://escueladedoblajedemadrid.es/).
 
 Para realizar la tabla hemos usado la plantilla de Figma: 
-[Pulse aquí para ver](P1/Análisis%20de%20Competidores(1).pdf)
+[Pulse aquí para ver](P1/Análisis%20de%20Competidores%20(1).pdf)
 
 Después de hacer el análisis podríamos decir las siguientes características de cada una:
 
