@@ -127,8 +127,10 @@ Tras rellenar la plantilla del usability-review la página obtiene un 71 de punt
 
 >>> Definir "User Map" y "Task Flow" ... 
 ![TK](P2/4.%20Task%20analysis/task_analysis.png)
+
+Este sería el flujo de acciones que hará el usuario al entrar en la página, en el que intervienen las acciones iniciar sesión, registrarse y navegar con el menú.
 ![UF](P2/4.%20Task%20analysis/UserFlow.png)
-Este sería el flujo de acciones que hará el usuario al entrar en la página, 
+
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
