@@ -112,7 +112,7 @@ Tras rellenar la plantilla del usability-review la página obtiene un 71 de punt
   Preguntas | Nuevas ideas
   
     
->>> "Facilitación de la conexión entre usuarios para intercambiar servicios y recursos de manera colaborativa, optimizando el uso de recursos y fomentando la comunidad."
+"Facilitación de la conexión entre usuarios para intercambiar servicios y recursos de manera colaborativa, optimizando el uso de recursos y fomentando la comunidad."
 
 
 
