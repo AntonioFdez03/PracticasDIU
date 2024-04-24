@@ -103,7 +103,7 @@ Tras rellenar la plantilla del usability-review la página obtiene un 71 de punt
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
-![EM](P2/empathyMap.png)
+![EM](P2/2.%20Reframing)
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
