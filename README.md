@@ -137,7 +137,7 @@ Navegando con el menú podemos llegar a cualquiera de las otras acciones.
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 ![SM](P2/5.%20Arquitectura%20de%20información/SiteMap.png)
-![lab](P2/5.%20Arquitectura%20de%20información/Labelling_DIU.pdf)
+![lab](P2/5.%20Arquitectura%20de%20información/labelling.png)
 >>> Identificar términos para diálogo con usuario  
 
 Término | Significado     
