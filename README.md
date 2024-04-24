@@ -119,7 +119,7 @@ Tras rellenar la plantilla del usability-review la página obtiene un 71 de punt
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 
-![Sc1](P2/scope_canvas_1.png)
+![Sc1](P2/3.%20Propuesta%20de%20valor/scope_canvas_1.png)
 >>> Propuesta de valor 
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
