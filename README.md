@@ -126,12 +126,12 @@ Tras rellenar la plantilla del usability-review la página obtiene un 71 de punt
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
-![Sc2](P2/4.%20Task%20analysis/task_analysis.png)
-![Sc2](P2/4.%20Task%20analysis/UserFlow.png)
+![TK](P2/4.%20Task%20analysis/task_analysis.png)
+![UF](P2/4.%20Task%20analysis/UserFlow.png)
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-![lab](P2/5.%20Arquitectura%20de%20información/SiteMap.png)
+![SM](P2/5.%20Arquitectura%20de%20información/SiteMap.png)
 ![lab](P2/5.%20Arquitectura%20de%20información/Labelling_DIU.pdf)
 >>> Identificar términos para diálogo con usuario  
 
@@ -147,6 +147,7 @@ Término | Significado
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
 
+[Pulse aquí para ver la simulación](https://www.figma.com/file/bOH2KvYVqzZ9Kxxh2E6Zwt/Untitled?type=design&node-id=11-54&mode=design&t=bTKrzUWY60RW2PaV-0)
 ## Paso 3. Mi UX-Case Study (diseño)
 
 
