@@ -138,6 +138,7 @@ Tras rellenar la plantilla del usability-review la página obtiene un 71 de punt
 Término | Significado     
 | ------------- | -------
   Login¿?  | acceder a plataforma
+  Streaming¿?  | contenido de medios, ya sea en vivo o grabado, que se puede disfrutar en computadoras y aparatos móviles a través de internet y en tiempo real. 
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
