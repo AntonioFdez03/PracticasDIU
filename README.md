@@ -132,7 +132,7 @@ Tras rellenar la plantilla del usability-review la página obtiene un 71 de punt
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-
+![lab](P2/labelling.png)
 >>> Identificar términos para diálogo con usuario  
 
 Término | Significado     
