@@ -147,7 +147,7 @@ Término | Significado
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
 
-[Pulse aquí para ver la simulación](https://www.figma.com/file/bOH2KvYVqzZ9Kxxh2E6Zwt/Untitled?type=design&node-id=11-54&mode=design&t=bTKrzUWY60RW2PaV-0)
+[Pulse aquí para ver la simulación](https://www.figma.com/file/bOH2KvYVqzZ9Kxxh2E6Zwt/Layouts?type=design&mode=design&t=bTKrzUWY60RW2PaV-0)
 ## Paso 3. Mi UX-Case Study (diseño)
 
 
