@@ -120,14 +120,14 @@ Tras rellenar la plantilla del usability-review la página obtiene un 71 de punt
 ----
 
 ![Sc1](P2/scope_canvas_1.png)
-![Sc2](P2/scope_canvas_2.png)
 >>> Propuesta de valor 
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
-
+![Sc2](P2/task_analysis.png)
+![Sc2](P2/UserFlow.png)
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
