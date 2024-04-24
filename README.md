@@ -152,14 +152,10 @@ Este sería el diseño de la página inicial para móvil y ordenador.
 ![I2](P2/6.%20Prototipo/Inicio_ordenador.png)
 
 
-Estos serían los diseños para las otras páginas:
-Login:
+Estos serían los diseños para las otras páginas: Login, Sobre nosotros, Reserva y Contacto.
 ![LG](P2/6.%20Prototipo/login.png)
-SobreNosotros:
 ![SN](P2/6.%20Prototipo/SobreNosotros.png)
-Reserva:
 ![RV](P2/6.%20Prototipo/Reserva.png)
-Contacto:
 ![Con](P2/6.%20Prototipo/Contacto.png)
 
 
