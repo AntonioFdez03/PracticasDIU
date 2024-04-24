@@ -145,15 +145,25 @@ Término | Significado
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación )
-![Con](P2/6.%20Prototipo/Contacto.png)
+
+Esta sería el diseño de la página inicial para móvil y ordenado:
 ![I1](P2/6.%20Prototipo/Inicio_movil.png)
 ![I2](P2/6.%20Prototipo/Inicio_ordenador.png)
-![RV](P2/6.%20Prototipo/Reserva.png)
-![SN](P2/6.%20Prototipo/SobreNosotros.png)
-![LG](P2/6.%20Prototipo/login.png)
-
-
 [Pulse aquí para ver la simulación](https://www.figma.com/file/bOH2KvYVqzZ9Kxxh2E6Zwt/Layouts?type=design&mode=design&t=bTKrzUWY60RW2PaV-0)
+
+Estos serían los diseños para las otras páginas:
+Login:
+![LG](P2/6.%20Prototipo/login.png)
+SobreNosotros:
+![SN](P2/6.%20Prototipo/SobreNosotros.png)
+Reserva:
+![RV](P2/6.%20Prototipo/Reserva.png)
+Contacto:
+![Con](P2/6.%20Prototipo/Contacto.png)
+
+
+
+
 ## Paso 3. Mi UX-Case Study (diseño)
 
 
