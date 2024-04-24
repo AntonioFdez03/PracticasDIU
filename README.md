@@ -144,7 +144,13 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Plantear el  diseño del layout para Web/movil (organización y simulación )
+![Con](P2/6.%20Prototipo/Contacto.png)
+![I1](P2/6.%20Prototipo/Inicio_movil.png)
+![I2](P2/6.%20Prototipo/Inicio_ordenador.png)
+![RV](P2/6.%20Prototipo/Reserva.png)
+![SN](P2/6.%20Prototipo/SobreNosotros.png)
+![LG](P2/6.%20Prototipo/login.png)
 
 
 [Pulse aquí para ver la simulación](https://www.figma.com/file/bOH2KvYVqzZ9Kxxh2E6Zwt/Layouts?type=design&mode=design&t=bTKrzUWY60RW2PaV-0)
