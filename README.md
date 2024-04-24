@@ -146,10 +146,11 @@ Término | Significado
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación )
 
-Esta sería el diseño de la página inicial para móvil y ordenado:
+Este sería el diseño de la página inicial para móvil y ordenador.
+[Pulse aquí para ver la simulación](https://www.figma.com/file/bOH2KvYVqzZ9Kxxh2E6Zwt/Layouts?type=design&mode=design&t=bTKrzUWY60RW2PaV-0)
 ![I1](P2/6.%20Prototipo/Inicio_movil.png)
 ![I2](P2/6.%20Prototipo/Inicio_ordenador.png)
-[Pulse aquí para ver la simulación](https://www.figma.com/file/bOH2KvYVqzZ9Kxxh2E6Zwt/Layouts?type=design&mode=design&t=bTKrzUWY60RW2PaV-0)
+
 
 Estos serían los diseños para las otras páginas:
 Login:
