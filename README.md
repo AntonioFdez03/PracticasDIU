@@ -112,10 +112,7 @@ Tras rellenar la plantilla del usability-review la página obtiene un 71 de punt
   Preguntas | Nuevas ideas
   
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>>> "Facilitación de la conexión entre usuarios para intercambiar servicios y recursos de manera colaborativa, optimizando el uso de recursos y fomentando la comunidad."
 
 
 
