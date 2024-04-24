@@ -131,8 +131,8 @@ Tras rellenar la plantilla del usability-review la página obtiene un 71 de punt
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-
-![lab](P2/labelling.png)
+![lab](P2/5.%20Arquitectura%20de%20información/SiteMap.png)
+![lab](P2/5.%20Arquitectura%20de%20información/Labelling_DIU.pdf)
 >>> Identificar términos para diálogo con usuario  
 
 Término | Significado     
