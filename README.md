@@ -197,7 +197,6 @@ Estos serían los diseños para las otras páginas: Login, Sobre nosotros, Reser
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-![Uploading image.png…]()
 
 ![Hi](P3/Imagenes_P3_Diu/Hi-fi.png)
 
