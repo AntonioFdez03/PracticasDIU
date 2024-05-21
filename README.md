@@ -190,11 +190,11 @@ Estos serían los diseños para las otras páginas: Login, Sobre nosotros, Reser
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
-![Guide](P3/Imagenes_P3_Diu/Guidelines_1.png)
+![Guide](P3/Imagenes_P3_Diu/Guideline_1.png)
 
-![Guide](P3/Imagenes_P3_Diu/Guidelines_2.png)
+![Guide](P3/Imagenes_P3_Diu/Guideline_2.png)
 
-![Guide](P3/Imagenes_P3_Diu/Guidelines_3.png)
+![Guide](P3/Imagenes_P3_Diu/Guideline_3.png)
  
 
 ![Método UX](img/mockup.png)  3.d Mockup
