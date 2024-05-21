@@ -171,6 +171,8 @@ Estos serían los diseños para las otras páginas: Login, Sobre nosotros, Reser
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
+![Moon](P3/Imagenes_P3_Diu/Moonboard.png)
+
 
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
@@ -180,6 +182,8 @@ Estos serían los diseños para las otras páginas: Login, Sobre nosotros, Reser
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
+
+![Moon](P3/Imagenes_P3_Diu/Landing_page.png)
 
 
 >>> Plantear Landing Page 
