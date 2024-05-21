@@ -186,13 +186,16 @@ Estos serían los diseños para las otras páginas: Login, Sobre nosotros, Reser
 ![Moon](P3/Imagenes_P3_Diu/Landing_page.png)
 
 
->>> Plantear Landing Page 
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+![Guide](P3/Imagenes_P3_Diu/Guidelines_1.png)
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+![Guide](P3/Imagenes_P3_Diu/Guidelines_2.png)
+
+![Guide](P3/Imagenes_P3_Diu/Guidelines_3.png)
+ 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
