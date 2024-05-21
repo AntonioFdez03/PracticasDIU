@@ -197,8 +197,9 @@ Estos serían los diseños para las otras páginas: Login, Sobre nosotros, Reser
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+![Uploading image.png…]()
 
+![Hi](P3/Imagenes_P3_Diu/Hi-fi.png)
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
