@@ -223,8 +223,6 @@ Para realizar el eyetracking hemos utilizado gazerecorder.
 Diseño del experimento 
 ----
 
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...)
 Hemos elegido un usuario de cada proyecto y le hemos pedido que reserve una sala individual.
 Las áreas de interés que hemos fijado en las páginas por las que hay que pasar son las siguientes:
 
