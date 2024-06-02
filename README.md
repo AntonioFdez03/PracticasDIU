@@ -218,13 +218,17 @@ Exportación a HTML/Flutter
 
 ![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
 
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
+Para realizar el eyetracking hemos utilizado gazerecorder. 
 
 Diseño del experimento 
 ----
 
 >> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
+>> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...)
+Hemos elegido un usuario de cada proyecto y le hemos pedido que reserve una sala individual.
+Las áreas de interés que hemos fijado en las páginas por las que hay que pasar son las siguientes:
+
+## Áreas de interés
 ![AOI1](P4/AOI-1.png)
 ![AOI2](P4/AOI-2.png)
 ![AOI3](P4/AOI-3.png)
