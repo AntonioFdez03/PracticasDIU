@@ -307,6 +307,12 @@ El documento contiene la Landing Page, el Moodboard y el Layout Hi-Fi.
 ### Metodología de usabilidad
 Hemos utilizado el cuestionario SUS.
 ### Test de usuarios: Participantes
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
+| Fernando      | H / 20   | Estudiante  | Media       | Extrovertido | Web        | A 
+| Encarni       | M / 54   | Ama de casa | Baja        | Introvertida | Móvil      | A 
+| Dai           | H / 18   | Estudiante  | Alta        | Introvertido | Web        | B 
+| Antonio       | H / 74   | Jubilado    | Media       | Extrovertido | Móvil      | B 
 
 ### Resultados obtenidos
 >> SUS
