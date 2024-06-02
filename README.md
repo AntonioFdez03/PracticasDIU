@@ -280,18 +280,17 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ----
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
-## AMIGOS DE LA NIEVE
+### AMIGOS DE LA NIEVE
 ![logoB](P4/LogoAmigosDeLaNieve.png)
 30/05/24
 >> Imagenes
 >> GIT
-### 1 DESCRIPCIÓN
-1 DESCRIPCIÓN DEL WEBSITE
+## 1 DESCRIPCIÓN
 Página para organizar y participar con otras personas de tu nivel en actividades relacionadas con la nieve, como ski, snowboard, etc.
 
-### 2 RESUMEN EJECUTIVO
+## 2 RESUMEN EJECUTIVO
 El documento contiene la Landing Page, el Moodboard y el Layout Hi-Fi.
-# Problemas
+### Problemas
 - Landing Page: ninguno, presenta un diseño simple, bonito y claro.
 - Moodboard: Faltan comentarios de los usuarios.
 - Layout:
@@ -300,20 +299,20 @@ El documento contiene la Landing Page, el Moodboard y el Layout Hi-Fi.
    - Algunos botones no hacen nada, como por ejemplo el de "Entrar" al registrarse.
 
 
-### 3 METODOLOGÍA 
-# Metodología de usabilidad
+## 3 METODOLOGÍA 
+### Metodología de usabilidad
 Hemos utilizado el cuestionario SUS.
-# Test de usuarios: Participantes
+### Test de usuarios: Participantes
 
-# Resultados obtenidos
+### Resultados obtenidos
 >> SUS
 >> Eyetracking
 
-### 4 CONCLUSIONES
-# Incidencias
-# Valoración
-# Recomendaciones y propuestas de mejoras:
-# Valoración de la prueba de usabilidad ( self-assesment ) 
+## 4 CONCLUSIONES
+### Incidencias
+### Valoración
+### Recomendaciones y propuestas de mejoras:
+### Valoración de la prueba de usabilidad ( self-assesment ) 
 
 
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
