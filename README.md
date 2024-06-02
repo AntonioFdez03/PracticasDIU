@@ -225,7 +225,9 @@ Diseño del experimento
 
 >> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
 >> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
-
+![AOI1](P4/AOI-1.png)
+![AOI2](P4/AOI-2.png)
+![AOI3](P4/AOI-3.png)
 
 ![experimento](img/experimentoET.png)  
 >> cambiar img por tu diseño de experimento  
