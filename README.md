@@ -211,40 +211,6 @@ Estos serían los diseños para las otras páginas: Login, Sobre nosotros, Reser
 >>> Documente y resuma el diseño de su producto
 
 
-## Paso 5. Exportación & evaluación con Eye Tracking 
-
-Exportación a HTML/Flutter
------
-
-![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
-
-Para realizar el eyetracking hemos utilizado gazerecorder. 
-
-Diseño del experimento 
-----
-
-Hemos elegido un usuario de cada proyecto y le hemos pedido que reserve una sala individual.
-Las áreas de interés que hemos fijado en las páginas por las que hay que pasar son las siguientes:
-
-## Áreas de interés
-![AOI1](P4/AOI-1.png)
-![AOI2](P4/AOI-2.png)
-![AOI3](P4/AOI-3.png)
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
-
-Resultados y valoración 
------
-
-
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
-
-
 
 ## Paso 4. Evaluación 
 
