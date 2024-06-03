@@ -214,10 +214,10 @@ Estos serían los diseños para las otras páginas: Login, Sobre nosotros, Reser
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
-AMIGOS DE LA NIEVE
+### AMIGOS DE LA NIEVE
 30/05/24
 https://github.com/jpsoso/DIU-LasDoBolita
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
