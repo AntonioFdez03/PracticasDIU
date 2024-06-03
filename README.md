@@ -315,7 +315,6 @@ Hemos utilizado el cuestionario SUS.
 | Antonio       | H / 74   | Jubilado    | Media       | Extrovertido | Móvil      | B 
 
 ### Resultados obtenidos
->> SUS
 | Usuarios | TestA/B | SUS 
 | ---------|---------| ----
 | Fernando | A       | 85
