@@ -227,8 +227,8 @@ https://github.com/jpsoso/DIU-LasDoBolita
 |:----------:|:---------:|:-------------------:|:--------------------:|:----------:|-----------------------------------------                   |------|-----------|:---------:|
 |      0     | Hombre/20 |   Estudiante        |         Media        |   Windows  |  Aficionado a videojuegos y a las tendencias de internet   |   A  |     85    |     A     |
 |      1     | Mujer/54  |   Ama de casa       |         Baja         |   Android  |  Madre / Le gusta pasar tiempo en familia                  |   A  |     65    |     C     |
-|      2     | Hombre/18 |   Estudiante        |         Alta         |   Windows  |  Aficionado al deporte y a la tecnología                   |   B  |     45    |  Marginal |
-|      3     | Hombre/74 |   Jubilado          |         Baja         |   Android  |  Muy trabajador pese a su edad / Sabio                     |   B  |     30    | No aceptable     |
+|      2     | Hombre/18 |   Estudiante        |         Alta         |   Windows  |  Aficionado al deporte y a la tecnología                   |   B  |     55    |     D     |
+|      3     | Hombre/74 |   Jubilado          |         Baja         |   Android  |  Muy trabajador pese a su edad / Sabio                     |   B  |     50    |     D     |
 
 ### EYETRACKING
 
