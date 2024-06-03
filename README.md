@@ -269,7 +269,7 @@ Hay que aclarar que los resultados no son del todo exactos ya que la página aun
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
-![SUS](P4/Cuestionario%20SUS.png)
+![SUS](P4/CuestionarioSUS.png)
 
 
 
