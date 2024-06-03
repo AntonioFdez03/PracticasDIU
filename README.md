@@ -296,7 +296,7 @@ El documento contiene la Landing Page, el Moodboard y el Layout Hi-Fi.
      
 ## 3 METODOLOGÍA 
 ### Metodología de usabilidad
-Hemos utilizado el cuestionario SUS.
+Hemos utilizado el cuestionario SUS y el eyetracking para analizar el proyecto.
 ### Test de usuarios: Participantes
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
