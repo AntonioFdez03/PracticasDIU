@@ -339,6 +339,12 @@ En esta práctica hemos aprendido cómo diseñar correctamente una página adem�
 
 >>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
 
+A lo largo de las prácticas de esta asignatura hemos aprendido muchas cosas sobre el diseño de páginas web, empezando por analizar páginas de teatro hasta acabar creando una propia desde 0. En el proceso hemos adquirido conocimientos de todas las etapas del desarrollo de esta y hemos aumentado nuestra capacidad creativa. Además hemos aprendido a usar herramientas como Figma y muchas de las cosas que se pueden hacer con ella, como simular cómo se vería la página en un móvil específico. 
+También ha sido muy útil analizar el trabajo de otros compañeros y que otros hagan lo mismo con el nuestro, ya que de esta manera podemos ayudarnos mutuamente a ver las cosas qué podemos mejorar.
+ 
+
+
+
 
 
 
