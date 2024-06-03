@@ -327,12 +327,9 @@ La página contiene carrusel de imágenes en la página principal, lista de acti
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
 ----
 
+En general el proyecto de Amigos de la Nieve ha tenido buenos resultados en las distintas pruebas, con una calificación D en el cuestionario SUS quiere decir que tiene algunas cosas que mejorar, pero no está nada mal, además en el eyetracking los usuarios encuentran rápidamente las cosas que necesitan, por lo que el diseño es bueno y no está sobrecargado.
 
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
-
-
+En esta práctica hemos aprendido cómo diseñar correctamente una página además de distintos métodos para evaluarlas.
 
 
 
