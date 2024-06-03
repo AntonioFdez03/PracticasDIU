@@ -245,6 +245,9 @@ Caso A:
 Para este caso hemos pedido a los usuarios que reserven una sala individual, estos han sido los resultados:
 - Usuario experto:
 ![ET1](P4/Heatmap-A-portada-1.png)
+![ET1](P4/Heatmap-experto-A2.png)
+![ET1](P4/Heatmap-experto-A3.png)
+
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
