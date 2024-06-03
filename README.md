@@ -261,10 +261,10 @@ Resultados y valoración
  
 | ID USUARIO | SEXO/EDAD |      OCUPACIÓN      | EXPERIENCIA INTERNET | PLATAFORMA | PERFIL CUBIERTO                                            | TEST | SUS SCORE | SUS GRADE |
 |:----------:|:---------:|:-------------------:|:--------------------:|:----------:|-----------------------------------------                   |------|-----------|:---------:|
-|      0     | Hombre/20 |   Estudiante        |         Media        |   Windows  |  Aficionado a videojuegos y a las tendencias de internet   |   A  |     85    |     B     |
-|      1     | Mujer/54  |   Ama de casa       |         Baja         |   Android  |  Madre / Le gusta pasar tiempo en familia                  |   A  |     65    |     B     |
-|      2     | Hombre/18 |   Estudiante        |         Alta         |   Windows  |  Aficionado al deporte y a la tecnología                   |   B  |     45    |     C     |
-|      3     | Hombre/74 |   Jubilado          |         Baja         |   Android  |  Muy trabajador pese a su edad / Muy inteligente           |   B  |     30    |     C     |
+|      0     | Hombre/20 |   Estudiante        |         Media        |   Windows  |  Aficionado a videojuegos y a las tendencias de internet   |   A  |     85    |     A     |
+|      1     | Mujer/54  |   Ama de casa       |         Baja         |   Android  |  Madre / Le gusta pasar tiempo en familia                  |   A  |     65    |     C     |
+|      2     | Hombre/18 |   Estudiante        |         Alta         |   Windows  |  Aficionado al deporte y a la tecnología                   |   B  |     45    |  Marginal |
+|      3     | Hombre/74 |   Jubilado          |         Baja         |   Android  |  Muy trabajador pese a su edad / Sabio                     |   B  |     30    | No aceptable     |
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
