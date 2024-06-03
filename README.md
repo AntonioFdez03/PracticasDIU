@@ -324,7 +324,7 @@ Hemos utilizado el cuestionario SUS.
 ### Incidencias
 Ninguna
 ### Valoración
-La página contiene carrusel de imágenes en la página principal, buscador para las actividades
+La página contiene carrusel de imágenes en la página principal, lista de actividades, así como un buscador para localizarlas y un form input para iniciar sesión/registrarse.
 ### Recomendaciones y propuestas de mejoras:
 - Fijar las páginas a la pantalla para que el usuario al interactuar con algún elemento no las arrastre por error.
 - Añadir transiciones en algunos cambios de página.
