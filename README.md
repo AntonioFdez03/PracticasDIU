@@ -237,7 +237,7 @@ https://github.com/jpsoso/DIU-LasDoBolita
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
-![SUS](P4/Cuestionario%SUS.png)
+![SUS](P4/Cuestionario%20SUS.png)
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
