@@ -257,7 +257,9 @@ Caso B:
 
 Para este caso hemos pedido a los usuarios que se apunten a una actividad de ski
 - Usuario experto:
-  
+![HM9](P4/Heatmap-experto-B1.png)
+![HM10](P4/Heatmap-experto-B2.png)
+
 - Usuario 2:
 ![HM7](P4/Heatmap-usuario2-B1.png)
 ![HM8](P4/Heatmap-usuario2-B2.png)
