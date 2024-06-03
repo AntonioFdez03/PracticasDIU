@@ -244,15 +244,24 @@ Caso A:
 
 Para este caso hemos pedido a los usuarios que reserven una sala individual, estos han sido los resultados:
 - Usuario experto:
-![ET1](P4/Heatmap-A-portada-1.png)
-![ET1](P4/Heatmap-experto-A2.png)
-![ET1](P4/Heatmap-experto-A3.png)
+![HM1](P4/Heatmap-A-portada-1.png)
+![HM2](P4/Heatmap-experto-A2.png)
+![HM3](P4/Heatmap-experto-A3.png)
 
+- Usuario 1:
+![HM4](P4/Heatmap-usuario1-A1.png)
+![HM5](P4/Heatmap-usuario1-A2.png)
+![HM6](P4/Heatmap-usuario1-A3.png)
+
+- Usuario 2:
+![HM7](P4/Heatmap-usuario2-B1.png)
+![HM8](P4/Heatmap-usuario2-B2.png)
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
 ![SUS](P4/Cuestionario%20SUS.png)
+
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
