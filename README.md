@@ -233,6 +233,7 @@ https://github.com/jpsoso/DIU-LasDoBolita
 |      2     | Hombre/18 |   Estudiante        |         Alta         |   Windows  |  Aficionado al deporte y a la tecnología                   |   B  |     45    |  Marginal |
 |      3     | Hombre/74 |   Jubilado          |         Baja         |   Android  |  Muy trabajador pese a su edad / Sabio                     |   B  |     30    | No aceptable     |
 
+## EYETRACKING
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
@@ -260,8 +261,7 @@ El documento contiene la Landing Page, el Moodboard y el Layout Hi-Fi.
    - Las páginas no coinciden con el tamaño del móvil utilizado.
    - Las páginas no están fijas, haciendo que se puedan sacar casi por completo de la pantalla arrastrándolas.
    - Algunos botones no hacen nada, como por ejemplo el de "Entrar" al registrarse.
-
-
+     
 ## 3 METODOLOGÍA 
 ### Metodología de usabilidad
 Hemos utilizado el cuestionario SUS.
@@ -280,7 +280,7 @@ Hemos utilizado el cuestionario SUS.
 | Encarni  | A       | 65
 | Dai      | B       | 45
 | Antonio  | B       | 30
->> Eyetracking
+
 
 ## 4 CONCLUSIONES
 ### Incidencias
