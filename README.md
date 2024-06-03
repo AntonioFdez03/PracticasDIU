@@ -8,8 +8,7 @@ Proyecto:
 GAMING CENTER
 
 Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
+Local para los amantes de los videojuegos, con juegos y salas de todo tipo para que cada cliente disfrute de la manera que más le guste, con puesto de snack.
 
 Logotipo: 
 ![Logo](P4/LogoGamingCenter.png)
