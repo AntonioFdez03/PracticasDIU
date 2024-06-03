@@ -233,7 +233,7 @@ https://github.com/jpsoso/DIU-LasDoBolita
 |      2     | Hombre/18 |   Estudiante        |         Alta         |   Windows  |  Aficionado al deporte y a la tecnología                   |   B  |     45    |  Marginal |
 |      3     | Hombre/74 |   Jubilado          |         Baja         |   Android  |  Muy trabajador pese a su edad / Sabio                     |   B  |     30    | No aceptable     |
 
-## EYETRACKING
+### EYETRACKING
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
