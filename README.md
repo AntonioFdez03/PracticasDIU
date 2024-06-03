@@ -258,16 +258,13 @@ Resultados y valoración
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Fernando      | H / 20   | Estudiante  | Media       | Extrovertido | Web        | A 
-| Encarni       | M / 54   | Ama de casa | Baja        | Introvertida | Móvil      | A 
-| Dai           | H / 18   | Estudiante  | Alta        | Introvertido | Web        | B 
-| Antonio       | H / 74   | Jubilado    | Media       | Extrovertido | Móvil      | B 
+| ID USUARIO | SEXO/EDAD |      OCUPACIÓN      | EXPERIENCIA INTERNET | PLATAFORMA | PERFIL CUBIERTO                                            | TEST | SUS SCORE | SUS GRADE |
+|:----------:|:---------:|:-------------------:|:--------------------:|:----------:|-----------------------------------------                   |------|-----------|:---------:|
+|      0     | Hombre/20 |   Estudiante        |         Media        |   Windows  |  Aficionado a videojuegos y a las tendencias de internet   |   A  |     85    |     B     |
+|      1     | Mujer/54  |   Ama de casa       |         Baja         |   Android  |  Madre / Le gusta pasar tiempo en familia                  |   A  |     65    |     B     |
+|      2     | Hombre/18 |   Estudiante        |         Alta         |   Windows  |  Aficionado al deporte y a la tecnología                   |   B  |     45    |     C     |
+|      3     | Hombre/74 |   Jubilado          |         Baja         |   Android  |  Muy trabajador pese a su edad / Muy inteligente           |   B  |     30    |     C     |
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
