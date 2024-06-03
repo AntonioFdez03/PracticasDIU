@@ -235,6 +235,12 @@ https://github.com/jpsoso/DIU-LasDoBolita
 
 ### EYETRACKING
 
+Para realizar esta prueba, hemos elegido un usuario experto y dos usuarios objetivo, el usuario 1 para el caso A y el usuario 2 para el caso B.
+Caso A:
+
+Para este caso hemos pedido a los usuarios que reserven una sala individual, estos han sido los resultados:
+- Usuario experto:
+  
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
