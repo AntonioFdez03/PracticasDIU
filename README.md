@@ -253,9 +253,18 @@ Para este caso hemos pedido a los usuarios que reserven una sala individual, est
 ![HM5](P4/Heatmap-usuario1-A2.png)
 ![HM6](P4/Heatmap-usuario1-A3.png)
 
+Caso B:
+
+Para este caso hemos pedido a los usuarios que se apunten a una actividad de ski
+- Usuario experto:
+  
 - Usuario 2:
 ![HM7](P4/Heatmap-usuario2-B1.png)
 ![HM8](P4/Heatmap-usuario2-B2.png)
+
+
+Conclusión:
+Como podemos observar el usuario experto localiza los elementos de manera rápida, ya que las páginas están bien diseñadas y no hay demasiadas cosas que distraigan, sin embargo el usuario 1 al ser una persona más mayor y no tener mucha experiencia, se distrae con facilidad y tarda un poco más en lograrlo, el usuario 2 también lo consigue rápido ya que es más joven.
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
