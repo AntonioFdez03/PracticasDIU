@@ -328,7 +328,7 @@ La página contiene carrusel de imágenes en la página principal, lista de acti
 ### Recomendaciones y propuestas de mejoras:
 - Fijar las páginas a la pantalla para que el usuario al interactuar con algún elemento no las arrastre por error.
 - Añadir transiciones en algunos cambios de página.
-- Algún apartado para poder comunicarte con las personas con las que vas a realizar la actividad.
+- Algún apartado para poder comunicarte con las personas con las que se va a realizar la actividad.
   
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
 ----
