@@ -236,7 +236,7 @@ https://github.com/jpsoso/DIU-LasDoBolita
 ### EYETRACKING
 
 Para realizar esta prueba, hemos elegido un usuario experto y dos usuarios objetivo, el usuario 1 para el caso A y el usuario 2 para el caso B.
-Para nuestro caso, hemos fijado las siguientes AOI en las páginas que van a ser necesarias: 
+Para nuestro caso, hemos fijado las siguientes AOI en las páginas que van a ser necesarias para realizar la accion que se pedirá: 
 ![AOI1](P4/AOI-1.png)
 ![AOI2](P4/AOI-2.png)
 ![AOI3](P4/AOI-3.png)
