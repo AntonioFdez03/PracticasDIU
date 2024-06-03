@@ -267,7 +267,7 @@ Para este caso hemos pedido a los usuarios que se apunten a una actividad cualqu
 
 Conclusión:
 Como podemos observar el usuario experto localiza los elementos de manera rápida, ya que las páginas están bien diseñadas y no hay demasiadas cosas que distraigan, sin embargo el usuario 1 al ser una persona más mayor y no tener mucha experiencia, se distrae con facilidad y tarda un poco más en lograrlo, el usuario 2 también lo consigue rápido ya que es más joven.
-Hay que aclarar resultados no son del todo exactos ya que la página aunque te obligue a calibrar antes de cada prueba, no termina saliendo correctamente de todas formas, pero aún así se puede entender.
+Hay que aclarar que los resultados no son del todo exactos ya que la página aunque te obligue a calibrar antes de cada prueba, no termina saliendo correctamente de todas formas, pero aún así se puede entender.
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
