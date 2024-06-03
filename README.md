@@ -310,8 +310,8 @@ Hemos utilizado el cuestionario SUS y el eyetracking para analizar el proyecto.
 | ---------|---------| ----
 | Fernando | A       | 85
 | Encarni  | A       | 65
-| Dai      | B       | 45
-| Antonio  | B       | 30
+| Dai      | B       | 55
+| Antonio  | B       | 50
 
 
 ## 4 CONCLUSIONES
