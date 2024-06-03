@@ -4,10 +4,8 @@ Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... )
 Grupo: DIU1_01AABB.  Curso: 2023/24 
 Updated: 11/2/2024
 
-Proyecto: 
-GAMING CENTER
+## GAMING CENTER
 
-Descripción: 
 Local para los amantes de los videojuegos, con juegos y salas de todo tipo para que cada cliente disfrute de la manera que más le guste, con puesto de snack.
 
 Logotipo: 
