@@ -217,8 +217,9 @@ Estos serían los diseños para las otras páginas: Login, Sobre nosotros, Reser
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
-
-
+AMIGOS DE LA NIEVE
+30/05/24
+https://github.com/jpsoso/DIU-LasDoBolita
 >>> Breve descripción del caso asignado con enlace a  su repositorio Github
 
 
@@ -250,8 +251,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ### AMIGOS DE LA NIEVE
 ![logoB](P4/LogoAmigosDeLaNieve.png)
 30/05/24
->> Imagenes
->> GIT
+https://github.com/jpsoso/DIU-LasDoBolita
 ## 1 DESCRIPCIÓN
 Página para organizar y participar con otras personas de tu nivel en actividades relacionadas con la nieve, como ski, snowboard, etc.
 
