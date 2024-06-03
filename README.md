@@ -255,7 +255,7 @@ Para este caso hemos pedido a los usuarios que reserven una sala individual, est
 
 Caso B:
 
-Para este caso hemos pedido a los usuarios que se apunten a una actividad de ski
+Para este caso hemos pedido a los usuarios que se apunten a una actividad cualquiera, estos han sido los resultados:
 - Usuario experto:
 ![HM9](P4/Heatmap-experto-B1.png)
 ![HM10](P4/Heatmap-experto-B2.png)
